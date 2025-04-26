@@ -27,7 +27,7 @@ If it is the first time you are using the app you have to create an account.
 > click on the link to sign up
 <img src="/images/signup.png" alt="Sigup Screen" width="300" height="200">
 
-Once you sign you will land in the home screen where it shows all your passwords.
+Once you signed in you will land in the home screen where it shows all your passwords.
 
 ### Home Screen
 
@@ -36,7 +36,7 @@ Once you sign you will land in the home screen where it shows all your passwords
 Click on the key button to create a new key
 > After you save it it will show up on the home
 
-Tip: :bulb: You can define your own password o let the app generate one for by clicking on the generate button 
+Tip:💡 You can define your own password or let the app generate one for you by clicking on the generate button 
 
 > #### You can specify the folloing
 >    
@@ -62,7 +62,7 @@ The password will show up on the home screen like this
 >
 > You have to type your password to allow this action
 >
-> You can also edit or delete which will show you a confirmation dialog.
+> You can also edit or delete.
 
 <img src="/images/showing-or-copying.png" alt="Key Screen" width="300" height="200"> <img src="/images/cofirm-before-copy-or-show.png" alt="Key Screen" width="300" height="200">
 
@@ -71,7 +71,7 @@ The password will show up on the home screen like this
 
 To edit just click on the edit button, it will show you the form key but in the edit mode
 
-Tip 💡 to see the password just right click on it and press *<strong>show</strong>* 
+Tip: 💡 to see the password just right click on it and press *<strong>show</strong>* 
 You have to confirme your credential to allow this action
 
 <img src="/images/editing-key.png" alt="Key Screen" width="300" height="200">
@@ -95,16 +95,18 @@ The import screen is used to import a file that you had exported before.
 > - remove the ones that you will not keep
 > - remove single or multiple before importing
 >
-> - After you choose the ones that you want click on persist button to save them, you have to confirm you credential to allow this action.
+> - After you choose the ones that you want click on *<strong>persist button to save them</strong>*, you have to confirm you credential to allow this action.
 > 
 
 Atention: ⚠️ The app will simply save the passwords as it appears on the screen, if you imported a file that contains encrypted passwords then it will save them perfoming an encryption on each of them. Therefore, if you reveal them on the home screen it will show them exactly you saw when you imported.
+
+You can see the passwords by right clicking on them to show or copy.
 
 <img src="/images/importing-file.png" alt="Key Screen" width="300" height="200">
 
 ### Settings Screen
 
-The setitngs you will be able to update some information about the logged in user and manage the logs when any error occurs.
+The setitngs you will be able to update some information about the signed in user and manage the logs when any error occurs.
 
 Tip: ℹ️ The log will only appear if an error occur
 
@@ -125,7 +127,7 @@ Tip: ℹ️ The log will only appear if an error occur
 
 ### Side Screen
 
-The side screen is used to have a quick access to the logged used and its settings, you can exit the from here or one of the menus.
+The side screen is used to have a quick access to the logged user and its settings, you can exit the from here or use one of the menus buttons.
 
 >
 > To close the side panel just click on any black area or the x button
