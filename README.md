@@ -121,9 +121,17 @@ Tip: ℹ️ The log will only appear if an error occur
 >    
 >
 
-<img src="/images/settings.png" alt="Key Screen" width="300" height="200">
+<img src="/images/settings.png" alt="Key Screen" width="300" height="200"> <img src="/images/log.png" alt="Key Screen" width="300" height="200">
 
+### Side Screen
 
+The side screen is used to have a quick access to the logged used and its settings, you can exit the from here or one of the menus.
+
+>
+> To close the side panel just click on any black are or the x button
+>
+
+<img src="/images/drawer.png" alt="Key Screen" width="300" height="200">
 
 
 
